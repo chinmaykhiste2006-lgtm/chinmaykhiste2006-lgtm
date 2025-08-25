@@ -10,7 +10,7 @@ I am a passionate **programmer and problem solver** skilled in **C, C++, and Pyt
 
 - **Programming Languages:** C, C++, Python  
 - **Areas of Interest:** Competitive Programming, Algorithms, Data Structures  
-- **Tools & Platforms:** Git, GitHub, VS Code  
+- **Tools & Platforms:** Git, GitHub, VS Code, CodeShef, Leetcode, GeeksForGeeks  
 
 ---
 
