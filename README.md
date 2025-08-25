@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Chinmay Khiste
 
-<!--
-**chinmaykhiste2006-lgtm/chinmaykhiste2006-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://img.shields.io/badge/Status-Active-green)
 
-Here are some ideas to get you started:
+I am a passionate **programmer and problem solver** skilled in **C, C++, and Python**. I enjoy building projects that combine **logic, creativity, and efficiency**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Skills
+
+- **Programming Languages:** C, C++, Python  
+- **Areas of Interest:** Competitive Programming, Algorithms, Data Structures  
+- **Tools & Platforms:** Git, GitHub, VS Code  
+
+---
+
+## 📫 Contact Me
+
+- **LinkedIn:** [Chinmay Khiste](https://www.linkedin.com/in/chinmay-khiste-a5592b321)  
+- **Email:** [chinmaykhiste2006@gmail.com](mailto:chinmaykhiste2006@gmail.com) | [chinmay.khiste241@vit.edu](mailto:chinmay.khiste241@vit.edu)  
+
+---
+
+## 🌐 Socials
+
+- **Instagram:** [@your_instagram_handle](https://www.instagram.com/your_instagram_handle)  
+
+> ⚠️ Optional: Only include Instagram if it’s professional or relevant (e.g., tech posts, projects, achievements). Otherwise, LinkedIn is usually enough for a professional profile.  
+
+---
+
+## 📈 GitHub Stats
+
+![Chinmay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChinmayKhiste&show_icons=true&theme=radical)
+
