@@ -21,15 +21,8 @@ I am a passionate **programmer and problem solver** skilled in **C, C++, and Pyt
 
 ---
 
-## 🌐 Socials
-
-- **Instagram:** [@your_instagram_handle](https://www.instagram.com/your_instagram_handle)  
-
-> ⚠️ Optional: Only include Instagram if it’s professional or relevant (e.g., tech posts, projects, achievements). Otherwise, LinkedIn is usually enough for a professional profile.  
-
----
 
 ## 📈 GitHub Stats
 
-![Chinmay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChinmayKhiste&show_icons=true&theme=radical)
+![Chinmay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chinmaykhiste2006-lgtm&show_icons=true&theme=radical)
 
